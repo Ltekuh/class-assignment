@@ -1,0 +1,9 @@
+Assignment
+
+Activity 2
+Study the different ways of cloning a repo from github.
+
+We need to be aware that these are both protocols in the first place SSH: Port 22 and https: port 443
+SSH uses a public key for authentication meanwhile with https, you use a username and password. Whatever 
+measure is used, the repo is been cloned into your local and from there you can use it or implement changes 
+to the original code. One thing for sure is, it is much more easier to clone https than ssh.
